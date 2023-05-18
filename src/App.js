@@ -20,7 +20,7 @@ function App() {
           rel="noopener noreferrer"
         >
           <h1>hellow achal kharabe</h1>
-          <h2>these is my 5th commit</h2>
+          <h2>these is my 6th commit</h2>
           Learn React
         </a>
       </header>
