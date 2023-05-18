@@ -4,6 +4,7 @@ const Add =(props)=>{
       
         <p>this is add</p>
         <p>addition={parseInt( props.a)+ parseInt( props.b)}</p>
+        <p>addition={props.a+props.b}</p>
         </div>
     )
 }
